@@ -1,7 +1,5 @@
 # Inverted Indexing
 
-</br>
-
 ## Index Term Choices
 
 Many considerations were had when choosing index terms.
